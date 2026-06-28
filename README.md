@@ -3,6 +3,10 @@
 A clean, performance-focused Windows 11 build designed for gaming. Removes unnecessary bloat, tweaks system settings, and optimizes resources to help you get the most out of your hardware.
 
 ---
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?weight=600&size=25&duration=1&pause=10000&color=340FFF&width=125&height=37&lines=Download" alt="Typing SVG" /></a>
+
+- The Download will be availabe soon in our Discord-Server
+- *"LINK*"
 
 ## Overview
 
