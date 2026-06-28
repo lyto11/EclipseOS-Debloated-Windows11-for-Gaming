@@ -8,7 +8,7 @@ A clean, performance-focused Windows 11 build designed for gaming. Removes unnec
 
 | Detail | Info |
 |--------|------|
-| **Version** | 0.3 |
+| **Version** | 1.0 |
 | **Base** | Windows 11 25H2 (Build 26200.8313) |
 | **ISO Size** | ~2.55 GB |
 | **Architecture** | x64 (UEFI) |
