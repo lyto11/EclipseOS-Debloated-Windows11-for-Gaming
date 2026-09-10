@@ -23,8 +23,7 @@ A clean, performance-focused Windows 11 build designed for gaming. Removes unnec
 
 - **Telemetry & tracking** — DiagTrack and related services fully disabled
 - **Xbox services** — XblAuthManager, XblGameSave, XboxGipSvc, XboxNetApiSvc
-- **OneDrive** — All OneDrive services and scheduled tasks removed
-- **Windows Search** — WSearch disabled
+- **OneDrive** — All OneDrive services and scheduled tasks 
 - **Hyper-V & WSL** — All virtualization components disabled
 - **Bluetooth, Fax, Print Spooler** — Disabled by default
 - **SMB1 Protocol** — Disabled (security best practice)
@@ -67,7 +66,9 @@ EclipseOS includes an automatic post-install system that runs on first boot:
 
 - This custom ISO is missing some default Windows features
 - Xbox services and OneDrive are not available out of the box
-- Windows Update is disabled — update manually if needed — Can brake the CustomOS and can add like Bloat
+- Windows Update is disabled — update manually if needed — Can brake the CustomOS and Bloat your system
 - Not recommended for inexperienced users
 - Stability on all hardware is not guaranteed
 - Use at your own risk
+
+#thx for trying EclipseOS
