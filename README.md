@@ -71,4 +71,4 @@ EclipseOS includes an automatic post-install system that runs on first boot:
 - Stability on all hardware is not guaranteed
 - Use at your own risk
 
-#thx for trying EclipseOS
+# thx for trying EclipseOS
